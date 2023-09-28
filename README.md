@@ -5,7 +5,8 @@
 ###### My personal6
 My phone: +4464647647
 
-> gfgf
+> #### Skils
+> JavaScript TypeScript
 
 ghjgj
 

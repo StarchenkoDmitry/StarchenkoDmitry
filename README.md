@@ -13,11 +13,7 @@
 
 > ##### ⚡Skils
 > JavaScript,TypeScript, 
-> 
 > HTML, CSS, SCSS,
-> 
 > ReactJS, NextJS,
-> 
 > ExpressJS, NestJS,
-> 
 > NodeJS

@@ -1,30 +1,12 @@
 ## I'm <a href="/README.md" >Starchenko Dmitry</a>
-### My personal
 
-##### My personal5
-###### My personal6
-My phone: +4464647647
+<a href="https://starchenkodmitry.github.io/Portfolio/" >Portfolio:</a>https://starchenkodmitry.github.io/Portfolio/
 
-> #### Skils
-> JavaScript TypeScript
+>##### My personal
+>Age 25
+>Phone: +79497372766
+>Email: starchenkodmitrypavlovich@gmail.com
+>Language: Russian native, Ukrainian native
 
-ghjgj
-
-
-**dfgdfg**
-
-
-----------
-
-hgfhfgh
-
-sfsdf
-
-----------
-1. first
-2. second
-3. third
-
-
-~~gfhjgjh~~
-
+> ##### Skils
+>  JavaScript,TypeScript, ReactJS, NextJS, HTML, CSS, SCSS, NodeJS, ExpressJS, NestJS

@@ -9,8 +9,10 @@
 > 🌎👅Language: English A2, Russian native, Ukrainian native
 
 > ##### ⚡Skils
-> JavaScript,TypeScript, NodeJS, HTML, VCSS, SCSS,
+> JavaScript(ES6+),TypeScript, NodeJS, HTML, CSS, SCSS,
 > ReactJS, NextJS, ExpressJS, NestJS
+> SQL: PostgreSQL(level middle), SQLite
+> NoSQL: MongoDB (mongoose)
 
 > #### Works
 > [pet6_ecommerce_avito](https://github.com/StarchenkoDmitry/pet6_ecommerce_avito)

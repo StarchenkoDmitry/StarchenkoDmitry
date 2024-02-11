@@ -3,7 +3,7 @@
 <a href="https://starchenkodmitry.github.io/Portfolio/" >Portfolio:</a>https://starchenkodmitry.github.io/Portfolio/
 
 > ##### 👨‍🎓My personal
-> ⏱️Age 25
+> ⏱️Age 26
 > 
 > 📱Phone: +79497372766>
 > 
@@ -12,19 +12,21 @@
 > 🌎Language: English A2, Russian native, Ukrainian native
 
 > ##### ⚡Skils
-> JavaScript(ES6+),TypeScript, NodeJS, HTML, CSS, SCSS,
+> JavaScript(ES6+),TypeScript, HTML, CSS, SCSS, Tailwind, NodeJS, Prisma.ORM, Socket.IO.
 > 
-> ReactJS, NextJS, ExpressJS, NestJS
+> ReactJS, NextJS, ExpressJS, NestJS, NodeJS.
 > 
-> SQL: PostgreSQL(level middle), SQLite
+> SQL: PostgreSQL(level 4/10)
 > 
-> NoSQL: MongoDB (mongoose)
+> NoSQL: MongoDB (without mongoose)
 
 > #### Works
 > [pet6_ecommerce_avito](https://github.com/StarchenkoDmitry/pet6_ecommerce_avito)
+> NextJS, Prisma.ORM(PostgreSQL), Socket.IO
 > 
 > [pet18_fire_party](https://github.com/StarchenkoDmitry/pet18_fire_party)
->
+> ReactJS, NestJS, Prisma.ORM(PostgreSQL), Socket.IO
+> 
 > #### Old works
 > [pet16_file_sharing_service](https://github.com/StarchenkoDmitry/pet16_file_sharing_service)
 > 

@@ -5,7 +5,7 @@
 > ##### 👨‍🎓My personal
 > ⏱️Age 26
 > 
-> 📱Phone: +79497372766>
+> 📱Phone: +79497372766
 > 
 > 📫Email: starchenkodmitrypavlovich@gmail.com>
 > 

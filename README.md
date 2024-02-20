@@ -12,11 +12,13 @@
 > 🌎Language: English A2, Russian native, Ukrainian native
 
 > ##### ⚡Skils
-> JavaScript(ES6+),TypeScript, HTML, CSS, SCSS, Tailwind, NodeJS, Prisma.ORM, Socket.IO.
+> JavaScript(ES6+),TypeScript, HTML5, CSS, SCSS, Tailwind, NodeJS, Prisma.ORM, Socket.IO.
 > 
-> ReactJS, NextJS, ExpressJS, NestJS, NodeJS.
+> Frontend: ReactJS, NextJS.
 > 
-> SQL: PostgreSQL(level 4/10)
+> Backend: NodeJS, ExpressJS, NestJS.
+> 
+> SQL: PostgreSQL(level 5/10, with Prisma.ORM 9/10)
 > 
 > NoSQL: MongoDB (without mongoose)
 
@@ -27,7 +29,9 @@
 > [pet18_fire_party](https://github.com/StarchenkoDmitry/pet18_fire_party)
 > ReactJS, NestJS, Prisma.ORM(PostgreSQL), Socket.IO
 > 
-> #### Old works
+> #### Depricated works
 > [pet16_file_sharing_service](https://github.com/StarchenkoDmitry/pet16_file_sharing_service)
+> MongoDB, ExpressJS, ReactJS
 > 
 > [Pet3_Paint](https://github.com/StarchenkoDmitry/Pet3_Paint)
+> JavaScript, HTML

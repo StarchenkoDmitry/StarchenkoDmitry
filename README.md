@@ -6,6 +6,8 @@
 > ⏱️Age 26
 > 
 > 📱Phone: +79497372766
+>
+> ✈Telegram: @dimkacoder
 > 
 > 📫Email: starchenkodmitrypavlovich@gmail.com>
 > 

@@ -9,7 +9,7 @@
 >
 > ✈Telegram: @dimkacoder
 > 
-> 📫Email: starchenkodmitrypavlovich@gmail.com>
+> 📫Email: starchenkodmitrypavlovich@gmail.com
 > 
 > 🌎Language: English A2, Russian native, Ukrainian native
 

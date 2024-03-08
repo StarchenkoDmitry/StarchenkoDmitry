@@ -14,11 +14,13 @@
 > 🌎Language: English A2, Russian native, Ukrainian native
 
 > ##### ⚡Skils
-> JavaScript(ES6+),TypeScript, HTML5, CSS, SCSS, Tailwind, NodeJS, Prisma.ORM, Socket.IO.
+> JavaScript, TypeScript, HTML5, CSS/SCSS/LESS(BEM methodology), Tailwind, NodeJS, Socket.IO.
 > 
 > Frontend: ReactJS, NextJS.
 > 
 > Backend: NodeJS, ExpressJS, NestJS.
+> 
+> ORM: PrismaORM, TypeORM.
 > 
 > SQL: PostgreSQL(level 5/10, with Prisma.ORM 9/10)
 > 

@@ -3,7 +3,6 @@
 <a href="https://starchenkodmitry.github.io/Portfolio/" >Portfolio:</a>https://starchenkodmitry.github.io/Portfolio/
 
 > ##### 👨‍🎓My personal
-> ⏱️Age 26
 > 
 > 📱Phone: +79497372766
 >

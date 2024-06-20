@@ -6,7 +6,7 @@
 > 
 > 📫Email: starchenkodmitrypavlovich@gmail.com
 
-> ##### ⚡Skils
+> ##### ⚡Skills
 > 
 > Fontend: NextJS, Angular.
 > 

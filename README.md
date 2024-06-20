@@ -1,31 +1,24 @@
-## I'm <a href="/README.md" >Starchenko Dmitry</a>
-
-<a href="https://starchenkodmitry.github.io/Portfolio/" >Portfolio:</a>https://starchenkodmitry.github.io/Portfolio/
-
-> ##### 👨‍🎓My personal
+> #### 👨‍🎓About me: I'm Starchenko Dmitry
 > 
 > 📱Phone: +79497372766
 >
-> ✈Telegram: @dimkacoder
+> ✈Telegram: @stardimkap
 > 
 > 📫Email: starchenkodmitrypavlovich@gmail.com
-> 
-> 🌎Language: English A2, Russian native, Ukrainian native
 
 > ##### ⚡Skils
-> JavaScript, TypeScript, HTML5, CSS/SCSS/LESS(BEM methodology), Tailwind, NodeJS.
 > 
-> Frontend: ReactJS, NextJS, Angular.
+> Fontend: NextJS, Angular.
 > 
-> Backend: NodeJS, ExpressJS, NestJS.
+> Backend: ExpressJS, NestJS.
 > 
 > ORM: PrismaORM, TypeORM.
 > 
-> SQL: PostgreSQL, *MySQL, *SQLite.
+> SQL: PostgreSQL.
 > 
-> NoSQL: MongoDB (without mongoose).
+> NoSQL: MongoDB.
 >
-> Other: WebSocket, Socket.IO, SSL, Nginx, Docker💓.
+> Other: Docker💓, Socket.IO.
 
 > #### Works
 > [pet20_telegram_shop](https://github.com/StarchenkoDmitry/pet20_telegram_shop)
@@ -41,6 +34,6 @@
 > [pet16_file_sharing_service](https://github.com/StarchenkoDmitry/pet16_file_sharing_service)
 > MongoDB, ExpressJS, ReactJS
 > 
-> [Pet3_Paint](https://github.com/StarchenkoDmitry/Pet3_Paint)
-> [site](https://starchenkodmitry.github.io/Pet3_Paint/#en)
+> [pet3_paint](https://github.com/StarchenkoDmitry/Pet3_Paint) ([site](https://starchenkodmitry.github.io/Pet3_Paint/#en))
+> 
 > JavaScript, HTML

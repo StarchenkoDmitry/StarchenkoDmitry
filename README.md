@@ -35,5 +35,4 @@
 > MongoDB, ExpressJS, ReactJS
 > 
 > [pet3_paint](https://github.com/StarchenkoDmitry/Pet3_Paint) ([site](https://starchenkodmitry.github.io/Pet3_Paint/#en))
-> 
 > JavaScript, HTML

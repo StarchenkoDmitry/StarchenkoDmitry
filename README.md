@@ -21,7 +21,7 @@
 > Other: Docker💓, Socket.IO.
 
 > #### Works
-> [pet20_telegram_shop](https://github.com/StarchenkoDmitry/pet20_telegram_shop)
+> [pet20_healthik](https://github.com/StarchenkoDmitry/pet20_healthik)
 > Angular, NestJS, TypeORM(PostgreSQL)
 > 
 > [pet18_fire_party](https://github.com/StarchenkoDmitry/pet18_fire_party)

@@ -29,10 +29,3 @@
 > 
 > [pet6_ecommerce_avito](https://github.com/StarchenkoDmitry/pet6_ecommerce_avito)
 > NextJS, Prisma.ORM(PostgreSQL), Socket.IO
-> 
-> #### Depricated works
-> [pet16_file_sharing_service](https://github.com/StarchenkoDmitry/pet16_file_sharing_service)
-> MongoDB, ExpressJS, ReactJS
-> 
-> [pet3_paint](https://github.com/StarchenkoDmitry/Pet3_Paint) ([site](https://starchenkodmitry.github.io/Pet3_Paint/#en))
-> JavaScript, HTML

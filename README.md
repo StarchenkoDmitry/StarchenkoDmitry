@@ -1,6 +1,6 @@
-> #### 👨‍🎓About me: I'm Starchenko Dmitry
+> #### 👨‍🎓About me: I'm Starchenko Dmitry | Full-stack Developer
 > 
-> 📱Phone: +79497372766
+> 📱Phone: +7 949 7372 766
 >
 > ✈Telegram: @stardimkap
 > 
@@ -8,7 +8,7 @@
 
 > ##### ⚡Skills
 > 
-> Fontend: NextJS, Angular.
+> Fontend: NextJS, ReactJS.
 > 
 > Backend: ExpressJS, NestJS.
 > 
@@ -18,15 +18,17 @@
 > 
 > NoSQL: MongoDB.
 >
+> Cache: Redis (BullMQ)
+>
 > Other: Docker💓, Socket.IO.
 
 > #### Works
-> [pet20_healthik](https://github.com/StarchenkoDmitry/pet20_healthik)
+> [pet_healthik](https://github.com/StarchenkoDmitry/pet_healthik)
 > Angular, NestJS, TypeORM(PostgreSQL)
 > 
-> [pet18_fire_party](https://github.com/StarchenkoDmitry/pet18_fire_party)
+> [pet_fire_party](https://github.com/StarchenkoDmitry/pet_fire_party)
 > ReactJS, NestJS, Prisma.ORM(PostgreSQL), Socket.IO
 > 
-> [pet6_ecommerce_avito](https://github.com/StarchenkoDmitry/pet6_ecommerce_avito)
+> [pet_ecommerce_avito](https://github.com/StarchenkoDmitry/pet_ecommerce_avito)
 > NextJS, Prisma.ORM(PostgreSQL), Socket.IO
 >
